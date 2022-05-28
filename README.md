@@ -15,4 +15,8 @@
 - Criação do projeto - CLI 
 - Usando componentes do RN
 
-# https://docs.google.com/presentation/d/14icSawkR25s14XWoGYHHcxv8-MKGBZ0R/edit?usp=sharing&ouid=114734295128723379966&rtpof=true&sd=true
+# slides do curso no link abaixo
+https://docs.google.com/presentation/d/14icSawkR25s14XWoGYHHcxv8-MKGBZ0R/edit?usp=sharing&ouid=114734295128723379966&rtpof=true&sd=true
+
+# Todo código-fonte desenvolvido durante o curso foi versionado no GitHub, nos seguintes endereços:
+https://github.com/ismaelsousa/dioRN
