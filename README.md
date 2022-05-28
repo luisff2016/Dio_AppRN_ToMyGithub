@@ -14,3 +14,5 @@
 - Setup de desenvolvimento
 - Criação do projeto - CLI 
 - Usando componentes do RN
+
+# https://docs.google.com/presentation/d/14icSawkR25s14XWoGYHHcxv8-MKGBZ0R/edit?usp=sharing&ouid=114734295128723379966&rtpof=true&sd=true
