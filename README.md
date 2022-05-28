@@ -5,3 +5,12 @@
 ## Bootcamp: Decola Tech 3a Edição
 
 ### By Luis Fernando Feitosa
+
+![](Tela_App_RN_ToMyGithub.png)
+
+# Conteudo aplicado:
+- Conhecendo o React Native
+- Documentação Oficial
+- Setup de desenvolvimento
+- Criação do projeto - CLI 
+- Usando componentes do RN
